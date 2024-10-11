@@ -1,6 +1,6 @@
 Hy Am ssemambo Rodney
-- 👀 I’m interested in  fullstack development 
-- 🌱 I’m currently learning  php
+- 👀 I’m interested in  fullstack development and React Native
+- 🌱 I’m a fullstack developer in php and laravel 
 - 💞️ I’m looking to collaborate on building systems and sites
 - 📫 How to reach me ssemamborodney@gmail.com/0756886299
 - ⚡ Fun fact:  research about tech and learning more 
